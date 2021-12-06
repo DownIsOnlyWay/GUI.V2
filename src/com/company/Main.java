@@ -1,7 +1,6 @@
 package com.company;
 
 import com.company.mokiniai.MokiniaiIMPL;
-import org.omg.CORBA.DynAnyPackage.Invalid;
 
 import javax.swing.*;
 import java.awt.*;
